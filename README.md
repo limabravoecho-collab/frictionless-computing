@@ -50,4 +50,12 @@ This resolution is supported by the following scientifically accepted theorems a
 2. **Function:** It allows legacy hardware to perform complex modern tasks by replacing "Brute Force" cycles with "Shortest Path" logic.
 3. **Verifiability:** Verified by **Instruction-per-Watt** metrics and **Cycle-to-Result** ratios. A frictionless system will show near-zero heat increase and near-instant results regardless of clock speed.
 
+---
+
+## 6. Further Reading
+
+The mathematical framework underlying these principles is formalized in the Unified Attractor Complexity Model (UACM).
+
+**Framework specification:** https://github.com/limabravoecho-collab/unified-attractor-complexity-model
+
 **Final Resolution:** Computation is not about how fast the clock ticks, but how much reality you can resolve in a single tick.
